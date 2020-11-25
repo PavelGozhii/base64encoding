@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da3f9f95-b8a5-42ac-8845-ae6a149a218c" name="Default Changelist" comment="" />
+    <list default="true" id="da3f9f95-b8a5-42ac-8845-ae6a149a218c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/encoding/com/pavelgo/Base64$Decoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/encoding/com/pavelgo/Base64$Encoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/encoding/com/pavelgo/Base64.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/encoding/com/pavelgo/Main.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606325902091</updated>
-      <workItem from="1606325904926" duration="1417000" />
+      <workItem from="1606325904926" duration="1713000" />
     </task>
     <servers />
   </component>
